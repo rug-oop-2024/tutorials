@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/mohammadalshakoush/Uni/2024-2025/TA/Oop-AI/tutorials/2tut/media/videos/pres/480p15/partial_movie_files/KNNExplanation/1185818338_3009517896_223132457.mp4'
+file 'file:/Users/mohammadalshakoush/Uni/2024-2025/TA/Oop-AI/tutorials/2tut/media/videos/pres/480p15/partial_movie_files/KNNExplanation/624642324_2133653196_290230564.mp4'
+file 'file:/Users/mohammadalshakoush/Uni/2024-2025/TA/Oop-AI/tutorials/2tut/media/videos/pres/480p15/partial_movie_files/KNNExplanation/624642324_1116854529_1406436988.mp4'
+file 'file:/Users/mohammadalshakoush/Uni/2024-2025/TA/Oop-AI/tutorials/2tut/media/videos/pres/480p15/partial_movie_files/KNNExplanation/624642324_4238406110_2911735130.mp4'
+file 'file:/Users/mohammadalshakoush/Uni/2024-2025/TA/Oop-AI/tutorials/2tut/media/videos/pres/480p15/partial_movie_files/KNNExplanation/624642324_3453863241_2141690829.mp4'
+file 'file:/Users/mohammadalshakoush/Uni/2024-2025/TA/Oop-AI/tutorials/2tut/media/videos/pres/480p15/partial_movie_files/KNNExplanation/624642324_4091009611_4006845384.mp4'
+file 'file:/Users/mohammadalshakoush/Uni/2024-2025/TA/Oop-AI/tutorials/2tut/media/videos/pres/480p15/partial_movie_files/KNNExplanation/624642324_1141282389_531736450.mp4'
